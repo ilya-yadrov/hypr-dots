@@ -1,0 +1,46 @@
+# Шрифт
+font=Cascadia Code 11
+
+# Размеры уведомления
+width=320
+height=240
+
+# Отступы внутри уведомления
+margin=20
+padding=10
+
+# Размер обводки
+border-size=3
+border-radius=9
+
+# Цветовая схема
+background-color=#11111b
+text-color=#ffffff
+border-color=#89b4fa
+progress-color=#ffffff
+
+# Иконка приложения
+icons=1
+max-icon-size=48
+icon-location=left
+
+# Хер знает, что это
+markup=1
+actions=1
+history=1
+
+# По прежнему не ебу
+text-alignment=left
+
+# Тонкие параметры
+default-timeout=5000
+ignore-timeout=0
+max-visible=13
+layer=overlay
+
+# История уведомлений
+max-history=25
+sort=-time
+
+# Сочный звук
+# on-notify=exec mpv /home/vlad/.config/mako/eureka.ogg
